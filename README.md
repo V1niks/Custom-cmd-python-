@@ -25,4 +25,7 @@ arch -purple
 
 wintech -green
 
+winver (test)
+
+
 
