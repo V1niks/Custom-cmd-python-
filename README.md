@@ -27,5 +27,6 @@ wintech -green
 
 winver (test)
 
+dir/x
 
 
