@@ -29,4 +29,6 @@ winver (test)
 
 dir/x
 
+time
+
 
