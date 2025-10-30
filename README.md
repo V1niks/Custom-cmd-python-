@@ -21,6 +21,8 @@ process
 
 arch
 
+color 2 (green)
+
 arch -purple
 
 wintech -green
