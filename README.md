@@ -23,6 +23,10 @@ arch
 
 color 2 (green)
 
+color 1 (blue)
+
+color 0 (white)
+
 arch -purple
 
 wintech -green
@@ -32,5 +36,11 @@ winver (test)
 dir/x
 
 time
+
+pip module 
+examples 
+(pip install creater)
+
+
 
 
