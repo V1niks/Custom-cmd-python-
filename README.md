@@ -9,7 +9,7 @@ custom command line made in python
 
 this is a custom command line made in python below will be the commands to use
 
-winfetch
+winfetch (-red)
 
 winfetch11 (windows 11)
 
@@ -19,17 +19,13 @@ filex
 
 process
 
-arch
+archfetch
 
 color 2 (green)
 
 color 1 (blue)
 
 color 0 (white)
-
-arch -purple
-
-wintech -green
 
 winver (test)
 
@@ -39,7 +35,9 @@ time
 
 pip module 
 examples 
-(pip install creater)
+(pip install creater, pipgame, process+)
+
+logx
 
 
 
