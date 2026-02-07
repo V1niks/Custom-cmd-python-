@@ -9,9 +9,9 @@ custom command line made in python
 
 this is a custom command line made in python below will be the commands to use
 
-wintech
+winfetch
 
-wintech11 (windows 11)
+winfetch11 (windows 11)
 
 ping
 
