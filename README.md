@@ -2,7 +2,8 @@
 custom command line made in python
 
 
-<img width="921" height="471" alt="изображение" src="https://github.com/user-attachments/assets/5f528965-1cc8-4b04-aad1-45591df40c2f" />
+<img width="1329" height="696" alt="Снимок экрана 2026-02-09 163342" src="https://github.com/user-attachments/assets/fd58103f-5cb9-4e1d-9afe-2da5d7d75ee3" />
+
 
 
 
